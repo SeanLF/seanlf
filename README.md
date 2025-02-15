@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/GitHub-@SeanLF-black?style=flat-square&logo=github)](https://github.com/SeanLF)
 [![](https://img.shields.io/badge/LinkedIn-@floydsean-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/floydsean)
 
-Senior Engineer focused on scaling systems and making developers' lives better
+Senior Software Engineer focused on scaling systems and making developers' lives better
 </div>
 
 ## Technical Focus
