@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/Website-seanfloyd.dev-blue?style=flat-square&logo=safari)](https://seanfloyd.dev)
 [![](https://img.shields.io/badge/GitHub-@SeanLF-black?style=flat-square&logo=github)](https://github.com/SeanLF)
-[![](https://img.shields.io/badge/LinkedIn-@floydsean-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/floydsean)
+[![](https://img.shields.io/badge/LinkedIn-@seanlf-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/seanlf)
 
 Senior Software Engineer focused on scaling systems and making developers' lives better
 </div>
