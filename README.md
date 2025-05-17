@@ -49,7 +49,7 @@ At Hivebrite:
 - 📦 [still_active](https://github.com/SeanLF/still_active)  
   Tired of unmaintained dependencies? Built a RubyGem that helps teams identify active vs abandoned dependencies. Used by Rails teams for dependency verification.
   
-- 🎵 Jazzify(https://web.archive.org/web/20241212002426/https://jazzify.ca/)
+- 🎵 [Jazzify](https://web.archive.org/web/20241212002426/https://jazzify.ca/)
   Started as "can you help with our Excel sheets?" for Ottawa Jazz Festival. Grew into a full Rails platform that managed thousands of volunteer applications over 9 years. Complete volunteer recruitment modernization until 2025, when the festival transitioned to another solution.
   
 - 🔬 [Stream Processing Research](https://ruor.uottawa.ca/handle/10393/39273)  
