@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer | Rails Performance & Cost Optimization**
 
-Grew up across 6 countries before high school (diplomatic family). Turns out being the perpetual new kid prepares you well for remote work. 4+ years remote from 17+ countries, comfortable async.
+Grew up across 6 countries before high school (diplomatic family). Turns out being the perpetual new kid prepares you well for remote work. 4+ years remote across 5 continents, comfortable async.
 
 9 years of Rails. I help SaaS companies stop burning money on infrastructure. At Hivebrite, I cut €160k/year in costs, reduced data exports from days to minutes, and halved build times while the team grew from 9 to 40 engineers.
 
