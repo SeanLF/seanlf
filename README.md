@@ -2,82 +2,35 @@
 
 **Senior Backend Engineer | Rails Performance & Cost Optimization**
 
-I help scaling SaaS companies reduce Rails infrastructure costs 30-50% through performance optimization. 9 years experience with measurable results: €160k annual savings, 98% performance improvements, 50% faster deployments.
+Grew up across 6 countries before high school (diplomatic family). Turns out being the perpetual new kid prepares you well for remote work. 4+ years remote from 17+ countries, comfortable async.
 
-[seanfloyd.dev](https://seanfloyd.dev) • [linkedin.com/in/seanlf](https://linkedin.com/in/seanlf)
+9 years of Rails. I help SaaS companies stop burning money on infrastructure. At Hivebrite, I cut €160k/year in costs, reduced data exports from days to minutes, and halved build times while the team grew from 9 to 40 engineers.
 
----
-
-## What I Do
-
-Backend engineer specializing in Rails performance optimization and cost reduction. Proven track record scaling multi-tenant SaaS platforms serving millions of users.
-
-**Available for:** Remote B2B consulting with scaling SaaS companies. Modern Rails applications (Rails 7+) facing performance or cost challenges — not legacy modernization projects.
-
-**Work setup:** B2B contracts via US LLC
-**Work rights:** Canada, EU, United States
+Open to full-time or contract. [seanfloyd.dev](https://seanfloyd.dev) has the full story.
 
 ---
 
-## Recent Impact
+## Proof of Work
 
-### Hivebrite (2020-2024)
-Led performance optimization and cost reduction initiatives for a multi-tenant SaaS platform (1M+ users, 600+ communities).
+**[Rails Core Contribution](https://github.com/rails/rails/pull/46586)** - Found a production bottleneck, fixed it upstream. 20x-670x speedup in ActiveSupport.
 
-**Performance & Cost:**
-- Reduced data export time by 98% for 1M+ user communities (hours → 45 minutes)
-- Cut background job runtime by 66%, saving 1.5k compute hours monthly
-- **Reduced annual infrastructure costs by €160k** through CI/CD optimization and autoscaling
-- Cut build times 50% while doubling deployment frequency
+**[Jazzify](https://web.archive.org/web/20241212002426/https://jazzify.ca/)** - Volunteer platform for Ottawa Jazz Festival. Built and ran it for 9 years. Production Rails, real users, real ops.
 
-**Platform Evolution:**
-- Architected versioned REST API infrastructure (OAuth2, OpenAPI, rate limiting)
-- Led platform-wide Ruby 3 and Rails 7 migration with zero downtime
-- Built developer tooling reducing onboarding from days to hours
+**[still_active](https://github.com/SeanLF/still_active)** - RubyGem to check if your dependencies are still maintained. Scratched my own itch.
+
+**[claude-rss-news-digest](https://github.com/SeanLF/claude-rss-news-digest)** - Daily news curation pipeline. RSS feeds, Claude for summarization, HTML email via Resend. Python, Docker, SQLite.
 
 ---
 
-## Technical Expertise
+## What I'm Good At
 
-**Backend & Performance**
-Ruby (9 years) • Rails (Rails 7+) • PostgreSQL • Redis • Elasticsearch • Sidekiq • Performance tuning • APM (Datadog, Sentry)
-
-**CI/CD & Infrastructure**
-Docker • Kubernetes (application-level) • CI/CD (Buildkite, CircleCI, GitHub Actions) • Application monitoring
-
-**API Architecture**
-REST APIs • API versioning • OAuth2 • OpenAPI/Swagger • Rate limiting • gRPC
-
-**LLM Integrations**
-Python • LLM API integration • MCP server development
+- Rails performance (database, Sidekiq, API optimization)
+- Infrastructure cost reduction (CI/CD, autoscaling, resource tuning)
+- API architecture (versioning, OAuth2, OpenAPI)
+- Developer tooling
 
 ---
 
-## Selected Work
+## Get in Touch
 
-**[still_active](https://github.com/SeanLF/still_active)** — RubyGem for dependency health verification
-Helps Rails teams identify abandoned dependencies before they become security risks.
-
-**[Jazzify](https://web.archive.org/web/20241212002426/https://jazzify.ca/)** — Production volunteer platform (9 years)
-Built and maintained Rails platform for Ottawa Jazz Festival, processing thousands of applications annually. Full production operations: CI/CD, monitoring, deployments.
-
-**[Rails Core Contribution](https://github.com/rails/rails/pull/46586)** — ActiveSupport performance fix
-Discovered and fixed production bottleneck achieving 20x-670x speedup.
-
-**[Weather MCP Server](https://github.com/SeanLF/weather-mcp)** — LLM integration
-Model Context Protocol server integrating Canadian government weather data for AI agents.
-
----
-
-## Working With Me
-
-I focus on measurable improvements in Rails application performance and infrastructure costs. Best fit for:
-
-- Rails performance optimization (database, background jobs, API)
-- Infrastructure cost reduction (CI/CD, autoscaling, resource optimization)
-- API architecture (versioning, authentication, documentation)
-- Developer tooling and productivity
-
-Remote-first with proven track record across 17+ countries. Typically 30hrs/week, flexible for compelling opportunities.
-
-**[Check availability](https://seanfloyd.dev/availability) • [Get in touch](https://seanfloyd.dev/email)**
+**[Check availability](https://seanfloyd.dev/availability)** · **[Email me](https://seanfloyd.dev/email)** · **[Full background](https://seanfloyd.dev/background)**
