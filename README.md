@@ -1,16 +1,20 @@
 # Sean Floyd
 
-**Senior Backend Engineer | Rails Performance & Cost Optimization**
+**Senior Backend Engineer | Reliable Systems at Scale**
 
-Grew up across 6 countries before high school (diplomatic family). Turns out being the perpetual new kid prepares you well for remote work. 4+ years remote across 5 continents, comfortable async.
+9 years of Rails. Now also building production AI systems with Claude Code and MCP. M.Sc. in ML/distributed systems.
 
-9 years of Rails. I help SaaS companies stop burning money on infrastructure. At Hivebrite, I cut €160k/year in costs, reduced data exports from days to minutes, and halved build times while the team grew from 9 to 40 engineers.
+At Hivebrite I cut €160k/year in infrastructure costs, took data exports from days to minutes, and halved build times - while the team grew from 9 to 40 engineers. I care about owning systems, not just passing through them.
 
-Open to full-time or contract. [seanfloyd.dev](https://seanfloyd.dev) has the full story.
+Grew up across 6 countries (diplomatic family). 4+ years remote across 5 continents, comfortable async.
+
+Actively looking for full-time or contract roles. [seanfloyd.dev](https://seanfloyd.dev) has the full story.
 
 ---
 
 ## Proof of Work
+
+**[claude-rss-news-digest](https://github.com/SeanLF/claude-rss-news-digest)** - Daily news digest that runs unattended. RSS feeds, Claude curation via MCP with schema-validated output, HTML email via Resend. [Wrote about making it reliable.](https://seanfloyd.dev/blog/i-stopped-hoping-my-llm-would-cooperate)
 
 **[Rails Core Contribution](https://github.com/rails/rails/pull/46586)** - Found a production bottleneck, fixed it upstream. 20x-670x speedup in ActiveSupport.
 
@@ -18,16 +22,13 @@ Open to full-time or contract. [seanfloyd.dev](https://seanfloyd.dev) has the fu
 
 **[still_active](https://github.com/SeanLF/still_active)** - RubyGem to check if your dependencies are still maintained. Scratched my own itch.
 
-**[claude-rss-news-digest](https://github.com/SeanLF/claude-rss-news-digest)** - Daily news curation pipeline. RSS feeds, Claude for summarization, HTML email via Resend. Python, Docker, SQLite.
-
 ---
 
-## What I'm Good At
+## What I Build
 
-- Rails performance (database, Sidekiq, API optimization)
-- Infrastructure cost reduction (CI/CD, autoscaling, resource tuning)
-- API architecture (versioning, OAuth2, OpenAPI)
-- Developer tooling
+- **Platform engineering** - Rails, PostgreSQL, Redis, Sidekiq, API architecture (Grape, gRPC, OAuth2), Kubernetes, Terraform
+- **Reliability & cost** - performance engineering, infrastructure optimization, CI/CD, monitoring (Datadog, OpenTelemetry)
+- **Production AI/LLM systems** - MCP servers, structured output with schema validation, pipelines that run unattended
 
 ---
 
