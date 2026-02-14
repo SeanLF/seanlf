@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer | Reliable Systems at Scale**
 
-9 years of Rails. Now also building production AI systems with Claude Code and MCP. M.Sc. in ML/distributed systems.
+9 years of Rails. Now building production AI systems end-to-end - Python, Rust, Ruby, and the infrastructure around them. M.Sc. in ML/distributed systems.
 
 At Hivebrite I cut €160k/year in infrastructure costs, took data exports from days to minutes, and halved build times - while the team grew from 9 to 40 engineers. I care about owning systems, not just passing through them.
 
@@ -14,7 +14,7 @@ Actively looking for full-time or contract roles. [seanfloyd.dev](https://seanfl
 
 ## Proof of Work
 
-**[claude-rss-news-digest](https://github.com/SeanLF/claude-rss-news-digest)** - Daily news digest that runs unattended. RSS feeds, Claude curation via MCP with schema-validated output, HTML email via Resend. [Wrote about making it reliable.](https://seanfloyd.dev/blog/i-stopped-hoping-my-llm-would-cooperate)
+**[claude-rss-news-digest](https://github.com/SeanLF/claude-rss-news-digest)** - Production publishing system built end-to-end: Python pipeline for RSS ingestion, Claude curation via MCP with schema-validated output, Rust web server, Terraform-managed deploys. Runs unattended every morning. [Wrote about making it reliable.](https://seanfloyd.dev/blog/i-stopped-hoping-my-llm-would-cooperate)
 
 **[Rails Core Contribution](https://github.com/rails/rails/pull/46586)** - Found a production bottleneck, fixed it upstream. 20x-670x speedup in ActiveSupport.
 
