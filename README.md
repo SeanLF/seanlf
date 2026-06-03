@@ -31,8 +31,14 @@ curation via MCP with schema-validated output, Rust web server, Terraform
 deploys. [Runs unattended every morning - watch it live.](https://news-digest.seanfloyd.dev/stats)
 [How I made it reliable.](https://seanfloyd.dev/blog/i-stopped-hoping-my-llm-would-cooperate)
 
-**[Rails Core Contribution](https://github.com/rails/rails/pull/46586)** -
-Found a production bottleneck, fixed it upstream. 20x-670x speedup in ActiveSupport.
+**[Steer](https://steer.seanfloyd.dev)** - Mac app that turns a game controller
+into a keyboard and mouse. Pair a pad, press a button, it presses a key. Menu
+bar, open source.
+
+**[Rails & ecosystem contributions](https://github.com/rails/rails/pull/46586)** -
+Fixed a Rails core bottleneck upstream (merged, 20x-670x ActiveSupport speedup).
+Currently hardening Rack 3 streaming reliability across Rack, Sinatra, and
+async-http.
 
 **[still_active](https://github.com/SeanLF/still_active)** - RubyGem scoring
 dependency health beyond version numbers: maintenance activity, OpenSSF
