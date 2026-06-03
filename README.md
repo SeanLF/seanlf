@@ -37,8 +37,9 @@ bar, open source.
 
 **[Rails & ecosystem contributions](https://github.com/rails/rails/pull/46586)** -
 Fixed a Rails core bottleneck upstream (merged, 20x-670x ActiveSupport speedup).
-Currently hardening Rack 3 streaming reliability across Rack, Sinatra, and
-async-http.
+Implemented production-safe Rack 3 streaming for Sinatra - a 3-year-old
+help-wanted feature - now awaiting review, with the upstream bugs it surfaced
+filed in Rack and async-http.
 
 **[still_active](https://github.com/SeanLF/still_active)** - RubyGem scoring
 dependency health beyond version numbers: maintenance activity, OpenSSF
