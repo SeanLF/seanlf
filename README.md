@@ -37,10 +37,11 @@ into a keyboard and mouse. Pair a pad, press a button, it presses a key. Menu
 bar, open source.
 
 **[Rails & ecosystem contributions](https://github.com/rails/rails/pull/46586)** -
-Fixed a Rails core bottleneck upstream (merged, 20x-670x ActiveSupport speedup).
-Implemented production-safe Rack 3 streaming for Sinatra - a 3-year-old
-help-wanted feature - now awaiting review, with the upstream bugs it surfaced
-filed in Rack and async-http.
+Merged a performance fix to Rails ActiveSupport. Designed and proposed
+production-safe Rack 3 streaming for Sinatra 5.0 - a long-standing help-wanted
+feature - now awaiting review. The work surfaced and filed two upstream issues:
+a Rack::Deflater crash on streaming bodies (rack#2470) and an HTTP/1
+client-disconnect edge case in async-http (#224).
 
 **[still_active](https://github.com/SeanLF/still_active)** - RubyGem scoring
 dependency health beyond version numbers: maintenance activity, OpenSSF
