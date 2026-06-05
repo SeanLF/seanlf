@@ -2,8 +2,9 @@
 
 **I make AI systems reliable in production**
 
-A decade of platform engineering rigour - Rails core contributor, €160k/yr
-infrastructure savings, systems serving 1M+ users - now applied to making LLM
+A decade of platform engineering rigour - €160k/yr infrastructure savings,
+systems serving 1M+ users, open-source contributor across the Ruby web stack
+(Rails, Sinatra, async) - now applied to making LLM
 pipelines, agents, and evals dependable in production. I work across Python,
 Rust, and Ruby as the problem calls for it. M.Sc. in ML / distributed systems.
 
