@@ -27,9 +27,10 @@ this through an AI agent.
 ## Proof of Work
 
 **[claude-rss-news-digest](https://github.com/SeanLF/claude-rss-news-digest)** -
-Production publishing system, built end-to-end: Python RSS pipeline, Claude
-curation via MCP with schema-validated output, Rust web server, Terraform
-deploys. [Runs unattended every morning - watch it live.](https://news-digest.seanfloyd.dev/stats)
+Production publishing system, built end-to-end: deterministic Python pipeline,
+five Claude curation stages over the Agent SDK, a validated LLM-as-judge eval
+suite, schema-validated output, Rust web server, Terraform deploys. [Runs
+unattended every morning - watch it live.](https://news-digest.seanfloyd.dev/stats)
 [How I made it reliable.](https://seanfloyd.dev/blog/i-stopped-hoping-my-llm-would-cooperate)
 
 **[Steer](https://steer.seanfloyd.dev)** - Mac app that turns a game controller
@@ -38,8 +39,8 @@ bar, open source.
 
 **[Rails & ecosystem contributions](https://github.com/rails/rails/pull/46586)** -
 Merged a performance fix to Rails ActiveSupport. Designed and proposed
-production-safe Rack 3 streaming for Sinatra 5.0 - a long-standing help-wanted
-feature - now awaiting review. The work surfaced and filed two upstream issues:
+[production-safe Rack 3 streaming for Sinatra 5.0](https://github.com/sinatra/sinatra/pull/2172) -
+a long-standing help-wanted feature. The work surfaced and filed two upstream issues:
 a Rack::Deflater crash on streaming bodies (rack#2470) and an HTTP/1
 client-disconnect edge case in async-http (#224).
 
@@ -59,8 +60,8 @@ More: [crunchyroll-migrate](https://github.com/SeanLF/crunchyroll-migrate) (Rust
 
 ## What I Build
 
-- **Production AI/LLM systems** - MCP servers, schema-validated output,
-  evals and observability, pipelines that run unattended
+- **Production AI/LLM systems** - Claude Agent SDK pipelines, MCP servers,
+  schema-validated output, evals and LLM-as-judge, pipelines that run unattended
 - **Reliability & cost** - performance engineering, infrastructure
   optimization, CI/CD, monitoring (Datadog, OpenTelemetry)
 - **Platform engineering** - Rails, PostgreSQL, Redis, Sidekiq, API
