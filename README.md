@@ -44,10 +44,12 @@ a long-standing help-wanted feature. The work surfaced and filed two upstream is
 a Rack::Deflater crash on streaming bodies (rack#2470) and an HTTP/1
 client-disconnect edge case in async-http (#224).
 
-**[still_active](https://github.com/SeanLF/still_active)** - RubyGem scoring
-dependency health beyond version numbers: maintenance activity, OpenSSF
-Scorecard, CVEs, libyear drift. Emits SARIF + CycloneDX SBOMs, with CI gates
-and a GitHub Action.
+**[still_active](https://github.com/SeanLF/still_active)** - `bundle outdated` tells
+you a dependency is behind; `bundler-audit` tells you it's vulnerable. Neither tells
+you nobody's maintaining it anymore. still_active does, and catches the case that
+bites: a dead package pinning your tree below a security fix you can't apply. Ruby-first,
+and cross-ecosystem (npm, PyPI, Cargo, Go, Maven, NuGet) from a CycloneDX SBOM. Ships
+SARIF, CI gates, and a GitHub Action.
 
 **[Jazzify](https://web.archive.org/web/20241212002426/https://jazzify.ca/)** -
 Volunteer platform for Ottawa Jazz Festival. Built and ran it for 9 years.
