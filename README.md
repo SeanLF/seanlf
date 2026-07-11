@@ -34,8 +34,7 @@ unattended every morning - watch it live.](https://news-digest.seanfloyd.dev/sta
 [How I made it reliable.](https://seanfloyd.dev/blog/i-stopped-hoping-my-llm-would-cooperate)
 
 **[Steer](https://steer.seanfloyd.dev)** - Mac app that turns a game controller
-into a keyboard and mouse. Pair a pad, press a button, it presses a key. Menu
-bar, open source.
+into a keyboard and mouse. Pair a pad, press a button, it presses a key.
 
 **[Rails & ecosystem contributions](https://github.com/rails/rails/pull/46586)** -
 Merged a performance fix to Rails ActiveSupport. Designed and proposed
