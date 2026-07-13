@@ -78,12 +78,12 @@ gauge) · [what I write about](https://seanfloyd.dev/blog)
 
 ## What I Build
 
-- **Production AI/LLM systems** - Claude Agent SDK pipelines, MCP servers,
-  schema-validated output, evals and LLM-as-judge, pipelines that run unattended
-- **Reliability & cost** - performance engineering, infrastructure
-  optimization, CI/CD, monitoring (Datadog, OpenTelemetry)
-- **Platform engineering** - Rails, PostgreSQL, Redis, Sidekiq, API
-  architecture (Grape, gRPC, OAuth2), Kubernetes, Terraform
+- **Production AI systems** - LLM pipelines, tool-calling agents, MCP servers;
+  evals, LLM-as-judge, fail-closed validation
+- **Reliability, security & cost** - performance and concurrency engineering
+  across Python, Ruby, Go, and Rust; supply-chain and dependency security
+- **Full-stack** - backend services and data pipelines, the infra they run on,
+  and the frontend on top
 
 ---
 
