@@ -37,7 +37,7 @@ Claude Agent SDK, a validated LLM-as-judge eval suite, schema-validated output,
 Rust web server, Terraform deploys. In production unattended since January
 2026, with [cost, source health and every failure
 public](https://news-digest.seanfloyd.dev/stats). [How I made it
-reliable.](https://seanfloyd.dev/blog/i-stopped-hoping-my-llm-would-cooperate)
+reliable.](https://seanfloyd.dev/blog/llm-reliability)
 
 **[Ask Assistant + MCP server](https://seanfloyd.dev/ask)** - A second
 production AI system, public-facing this time: a grounded, tool-calling agent
