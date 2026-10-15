@@ -15,9 +15,10 @@ code to website.
 **[still_active](https://github.com/SeanLF/still_active)**: tells you which of
 your dependencies nobody maintains any more, before the CVE does.
 
-**[news-digest](https://github.com/SeanLF/news-digest)**: a daily news briefing
-that nobody edits. Unattended since January 2026;
-[cost and every failure are public](https://news-digest.seanfloyd.dev/stats).
+**[news-digest](https://github.com/SeanLF/news-digest)**: a daily geopolitics
+and tech briefing, written and fact-checked by AI, that nobody edits. Every
+source is labelled for bias, ongoing stories are followed across days, and
+[the cost and every failure are public](https://news-digest.seanfloyd.dev/stats).
 
 **[ccpool](https://github.com/SeanLF/ccpool)**: dollars left in your Claude
 subscription, and whether you're burning it too fast.
