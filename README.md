@@ -7,7 +7,7 @@ with evals and guardrails that fail closed. Ten years on Rails platforms with
 million-user communities before that; M.Sc. in machine learning and
 distributed systems.
 
-Europe-based, remote since 2015, async-first, with live overlap across European
+Europe-based, remote or hybrid since 2015, async-first, with live overlap across European
 hours and into US-East. Looking for a staff, senior or founding seat on a small
 remote team shipping AI product.
 [seanfloyd.dev](https://seanfloyd.dev) has the record and the
